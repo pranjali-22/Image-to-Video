@@ -52,9 +52,12 @@ To run the script successfully, ensure you have the following inputs in your pro
   - The transformation type: `"grayscale"`, `"rotate"`, or `"resize"`.
 
 ### Output Generated
-A user can input the type of transformation that they want to apply—such as grayscale, rotation, or resizing. Based on the input, two files will be generated:
-1. **output.jpg:** The image with the applied transformation.
+
+A user can input the type of transformation that they want to apply—such as **grayscale**, **rotation**, or **resizing**. Based on the input, two files will be generated:
+
+1. **output.jpg:** The image with the applied transformation.  
 2. **output.mp4:** A short video generated using the processed image and the background music.
+
 
 
 
